@@ -234,6 +234,62 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: idleFrames.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack1Frames.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack2Frames.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack1Frames.Array.data[7]
+      value: 
+      objectReference: {fileID: 21300000, guid: 337bb5ec456142bd8d1089a9441237f0, type: 3}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack1Frames.Array.data[8]
+      value: 
+      objectReference: {fileID: 21300000, guid: b3b0c15ffe264b61a13c7f8b3fcd7e91, type: 3}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack2Frames.Array.data[5]
+      value: 
+      objectReference: {fileID: 21300000, guid: c5adafd2886445ae9a5db50e8f0f8725, type: 3}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack2Frames.Array.data[6]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1d464995843f44a086ac99f1ffdf8ca3, type: 3}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack2Frames.Array.data[7]
+      value: 
+      objectReference: {fileID: 21300000, guid: 301eb37247e5488da5397f985a800db7, type: 3}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack1EffectFrames.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack2EffectFrames.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack1EffectFrames.Array.data[4]
+      value: 
+      objectReference: {fileID: 21300000, guid: e34c8513d07e9c84ea16c324ea095e6c, type: 3}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack1EffectFrames.Array.data[5]
+      value: 
+      objectReference: {fileID: 21300000, guid: 8504ec6db8ba7ea41965c62202e28b67, type: 3}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack2EffectFrames.Array.data[4]
+      value: 
+      objectReference: {fileID: 21300000, guid: b74dde2f367e2e94088d9dfab629ccb9, type: 3}
+    - target: {fileID: 6956749761073574510, guid: 65c6efb82a1cf434aaa96241f5fd3508, type: 3}
+      propertyPath: attack2EffectFrames.Array.data[5]
+      value: 
+      objectReference: {fileID: 21300000, guid: 8504ec6db8ba7ea41965c62202e28b67, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

@@ -172,6 +172,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 7734f0bc23d7f5643bf3d47ace387911, type: 3}
   - {fileID: 21300000, guid: 956562424efca4648a1eb742999361c1, type: 3}
   - {fileID: 21300000, guid: 4d635cc10c46fa84da56628b1942b6e9, type: 3}
+  - {fileID: 21300000, guid: efef81220e0f6824080d67526fc818f1, type: 3}
+  - {fileID: 21300000, guid: 2420c89a9f4d4d546bbdd83f1626a9bb, type: 3}
   walkFrames:
   - {fileID: 21300000, guid: 16f3c00d93a3c944e952fc5b7871ba2b, type: 3}
   - {fileID: 21300000, guid: 78b9ff96d51640f47984a2745ff9e7d6, type: 3}
@@ -184,14 +186,22 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 58c973e7ea624ca59148ac898837da78, type: 3}
   - {fileID: 21300000, guid: cfae7e947c714fc099090edb1e697ccc, type: 3}
   - {fileID: 21300000, guid: 1b57aaa5888e4c1f8be88e50cd2c26c2, type: 3}
+  - {fileID: 21300000, guid: bd9836ff3dd11084987f480b628bac27, type: 3}
+  - {fileID: 21300000, guid: a050dc779a647e448a7fd1834dcb4fca, type: 3}
+  - {fileID: 21300000, guid: 0f677d23a35507449ab6e63e5624169b, type: 3}
+  - {fileID: 21300000, guid: 62674fe5cf82c4b4790d2afd81075f8d, type: 3}
   hitFrames:
   - {fileID: 21300000, guid: 093842fbdbb744a68cd3b599aec1d46d, type: 3}
   - {fileID: 21300000, guid: 77625091bcb642299a7a80276771301a, type: 3}
+  - {fileID: 21300000, guid: b45c90f82e0b796419ddde5718e2fdb4, type: 3}
+  - {fileID: 21300000, guid: 8f65b9e9ebdf97b43a512466094b2963, type: 3}
+  - {fileID: 21300000, guid: 2e4c9ab674015424e8ab8263a1f11db5, type: 3}
   deathFrames:
   - {fileID: 21300000, guid: fe57be3755c24f629687185316dfbb9c, type: 3}
   - {fileID: 21300000, guid: 708562abdd88489880ef255db418bd5f, type: 3}
   - {fileID: 21300000, guid: c207956a914b4a02bb1ae40b2a36740c, type: 3}
   - {fileID: 21300000, guid: c47be02a12214d14a1d10ff5e23b0cc7, type: 3}
+  - {fileID: 21300000, guid: c72fc944b65175a40b12b4f7f0af3d48, type: 3}
   idleFrameTimes:
   - 0.1667
   - 0.1667
@@ -217,7 +227,7 @@ MonoBehaviour:
   - 0.1429
   - 0.1429
   - 0.1429
-  attackDamageFrame: 3
+  attackDamageFrame: 6
   attackSfx:
     clip: {fileID: 8300000, guid: 00edbd345f77b5145a339ed4da43f264, type: 3}
     volume: 1
