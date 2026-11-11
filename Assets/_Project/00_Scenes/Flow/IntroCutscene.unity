@@ -1258,6 +1258,20 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: b77573f36bddb894e995623b84a92b7f, type: 3}
     video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 2c6cf08bda5270d4bb59bbed451d3824, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 18877594f9b1e984283c35304972087b, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: b8fa3ee8c86ab4d4da5a7b733b0ee565, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: b59a28e8b433f1c4389b56a378422221, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 7abd9986100413a4dbe28b349233031f, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 5acadf8ec32d6c54ca54f1977056d00d, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: ba52c0f1386eb1a4ab116e365012dc5e, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
 --- !u!4 &1646451967
